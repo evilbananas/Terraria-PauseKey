@@ -1,1 +1,1 @@
-Renamed the mod's display name to "Pause Key".
+Changed the pause overlay text to "Pause" and "Press 'X' to resume".
