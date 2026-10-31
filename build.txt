@@ -1,4 +1,4 @@
-displayName = PauseKey
+displayName = Pause Key
 author = evilbananas
 version = 0.1
 homepage = https://github.com/evilbananas/Terraria-PauseKey

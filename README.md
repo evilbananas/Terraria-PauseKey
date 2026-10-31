@@ -23,14 +23,14 @@ Documents\My Games\Terraria\tModLoader\Mods\
 └── PauseKey.tmod
 ```
 
-Launch tModLoader, open **Workshop → Manage Mods**, enable **PauseKey** and reload.
+Launch tModLoader, open **Workshop → Manage Mods**, enable **Pause Key** and reload.
 
 The key starts unbound. To set it, go to **Settings → Controls → Mod Controls** and
 either click **Pause** and press a key, or use its default button to set it to `P`.
 
 ## Uninstall
 
-- Disable the mod: open **Workshop → Manage Mods**, disable **PauseKey** and reload.
+- Disable the mod: open **Workshop → Manage Mods**, disable **Pause Key** and reload.
 - Remove the mod: delete `PauseKey.tmod` from
   `Documents\My Games\Terraria\tModLoader\Mods\`.
 
