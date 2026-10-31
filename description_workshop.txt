@@ -1,0 +1,6 @@
+Adds a bindable pause key. Press the key to pause the game; press the key again to resume. Single player only.
+
+The key starts unbound. To set it, go to Settings > Controls > Mod Controls.
+
+[b]This mod is hosted and maintained on [url=https://github.com/evilbananas/Terraria-PauseKey]GitHub[/url].
+Source code, release history and bug reports: [url=https://github.com/evilbananas/Terraria-PauseKey]github.com/evilbananas/Terraria-PauseKey[/url][/b]
