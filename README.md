@@ -15,7 +15,7 @@ Press the key to pause the game; press the key again to resume. Single player on
 ## Installation
 
 Download `PauseKey.tmod` from
-[Releases](https://github.com/evilbananas/TerrariaPauseKey/releases) and place it in
+[Releases](https://github.com/evilbananas/Terraria-PauseKey/releases) and place it in
 your tModLoader `Mods` folder:
 
 ```
