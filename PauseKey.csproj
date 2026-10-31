@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Fall back to ModSources so the project also resolves when opened from the repo -->
+  <PropertyGroup>
+    <TmlTargets>..\tModLoader.targets</TmlTargets>
+    <TmlDocs>$([System.Environment]::GetFolderPath(SpecialFolder.MyDocuments))</TmlDocs>
+    <TmlTargets Condition="!Exists('$(TmlTargets)')">
+      $(TmlDocs)\My Games\Terraria\tModLoader\ModSources\tModLoader.targets
+    </TmlTargets>
+  </PropertyGroup>
+  <Import Project="$(TmlTargets.Trim())" />
+
+  <PropertyGroup>
+    <AssemblyName>PauseKey</AssemblyName>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+</Project>

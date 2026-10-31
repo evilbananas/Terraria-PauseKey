@@ -1,0 +1,5 @@
+Adds a bindable pause key. Press the key to pause the game; press the key again to resume.
+
+The key starts unbound. To set it, go to Settings > Controls > Mod Controls.
+
+Single player only.

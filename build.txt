@@ -1,0 +1,5 @@
+displayName = PauseKey
+author = evilbananas
+version = 0.1
+homepage = https://github.com/evilbananas/TerrariaPauseKey
+buildIgnore = *.md, screenshot.png
