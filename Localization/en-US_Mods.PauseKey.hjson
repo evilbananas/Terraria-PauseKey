@@ -1,4 +1,4 @@
 Keybinds.Pause.DisplayName: Pause
-Paused: Paused
-PressToUnpause: Press '{0}' to unpause
+Paused: Pause
+PressToUnpause: Press '{0}' to resume
 Unbound: <unbound>
